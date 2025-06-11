@@ -1,6 +1,6 @@
 env/
 
-**/ModeloDoc.docx
+**/*.docx
 
 **/exemplo*.txt
 
