@@ -1,3 +1,7 @@
-# Ignorar as pastas
 env/
-arquivoLixo/
+
+**/*exemplo*.txt
+
+**/*.html
+
+utils/config.properties
